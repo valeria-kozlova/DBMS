@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/a.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/a.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/cmd.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/cmd.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/database.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/database.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/manager.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/manager.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/record.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/record.h" charset="windows-1251" />
+  </component>
+</project>

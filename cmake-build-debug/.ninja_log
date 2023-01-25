@@ -1,0 +1,13 @@
+# ninja log v5
+2	297	6766477139950126	CMakeFiles/db.dir/cmd.cpp.obj	75ac1b45f4a264b7
+298	699	6766477143911112	db.exe	2b423b67d6db6065
+3	401	6766110759196164	CMakeFiles/db.dir/record.cpp.obj	9c4a012e568136c
+2	462	6766476829101415	CMakeFiles/db.dir/manager.cpp.obj	21f8b31a6694320
+15	836	6766211561336513	CMakeFiles/db.dir/database.cpp.obj	6ae9f347770a6a3f
+2	1173	6766211564832642	CMakeFiles/db.dir/main.cpp.obj	188ed92dc0a7755b
+1	477	6963206705546365	CMakeFiles/db.dir/cmd.cpp.obj	16183ee6405168ff
+5	492	6963206705696393	CMakeFiles/db.dir/record.cpp.obj	698928da43791683
+7	600	6963206706796646	CMakeFiles/db.dir/manager.cpp.obj	ef48a7761e3c6b01
+9	948	6963206710257441	CMakeFiles/db.dir/database.cpp.obj	e4cb24739dea6540
+11	1310	6963206713898250	CMakeFiles/db.dir/main.cpp.obj	107f3c85bb476866
+1311	1798	6963206718723710	db.exe	fb035c940cb1941b
